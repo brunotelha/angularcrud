@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "name": "Maquina de lavar",
+      "price": "999.00",
+      "id": 7
+    },
+    {
+      "name": "Varal",
+      "price": "79.90",
+      "id": 8
+    },
+    {
+      "name": "teste",
+      "price": "400",
+      "id": 9
+    },
+    {
+      "name": "teste",
+      "price": "222",
+      "id": 10
+    }
+  ]
+}
